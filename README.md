@@ -1,2 +1,2 @@
 # StudyBuddy
-A student study group Management
+A student study group Management System
